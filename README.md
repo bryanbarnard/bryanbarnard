@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bryanbarnard
-- 👀 I’m interested in Python, Web3, APIs, FAST API, Data, Pandas, SQL, Ethereum
-- 🌱 I’m currently learning Pandas
-- 📫 How to reach me ... @nardbard
+- 👀 I’m interested in Python, AI, APIs, FAST API, Data, Pandas, SQL, LLMs
+- 🌱 I’m currently experimenting with AI, LLMs and LLM frameworks
+- 📫 How to reach me ... bryan@headwindlabs.com
 
 <!---
 bryanbarnard/bryanbarnard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
