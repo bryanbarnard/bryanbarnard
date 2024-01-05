@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanbarnard
 - 👀 I’m interested in Python, AI, APIs, FAST API, Data, Pandas, SQL, LLMs
-- 🌱 I’m currently experimenting with AI, LLMs and LLM frameworks
+- 🌱 I’m currently working with AI, LLMs and LLM frameworks
 - 📫 How to reach me ... bmbarnard@gmail.com
 
 <!---
